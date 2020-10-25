@@ -1,0 +1,1 @@
+pushd C:\Program Files (x86)\Minecraft
